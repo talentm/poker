@@ -1,0 +1,6 @@
+com\poker\deck\StandardDeck.class
+com\poker\util\HandMatcherUtil.class
+com\poker\deck\IDeck.class
+com\poker\card\StandardCard.class
+com\poker\game\PokerGame.class
+com\poker\card\ICard.class
